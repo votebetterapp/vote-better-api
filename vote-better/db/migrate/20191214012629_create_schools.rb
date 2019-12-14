@@ -3,6 +3,7 @@ class CreateSchools < ActiveRecord::Migration[6.0]
     create_table :schools do |t|
       t.string :name
       t.text :description
+      t.string :email_signature
 
       t.timestamps
     end
