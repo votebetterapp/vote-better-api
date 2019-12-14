@@ -1,0 +1,62 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/models/group.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/models/membership.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/models/school.rb": [
+        1,
+        null
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/models/user.rb": [
+        1,
+        null
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/jobs/application_job.rb": [
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/restarone/Documents/vote-better-api/vote-better/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1576287012
+  }
+}
